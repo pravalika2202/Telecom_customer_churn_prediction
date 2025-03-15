@@ -49,3 +49,10 @@ The dataset includes customer attributes such as service subscriptions, account 
 - README.md  
 
 This structured approach ensures a comprehensive understanding of customer churn patterns, equipping PhoneNow with the insights needed to enhance retention strategies effectively.
+## DashBoard
+https://github.com/pravalika2202/Telecom_customer_churn_prediction/blob/0fe29fc83c0461c1e3dd347c0260fce22801107a/Churn%20Prediction%20Risk%20Analysis.pbix
+## Recomendations
+- Make 1-2 year contracts more attractive with better pricing and perks.  
+- Invest in faster, more stable fiber optic connections with better support.  
+- Offer more internet options beyond fiber optic and DSL.  
+- Tailor services and communication to engage senior customers.
